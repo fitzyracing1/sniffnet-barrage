@@ -1,2 +1,5 @@
 # sniffnet-barrage
-Barrage plain-language clone of fitzyracing1/sniffnet
+
+Barrage clone of [fitzyracing1/sniffnet](https://github.com/fitzyracing1/sniffnet).
+
+Read [listing.barrage](listing.barrage).
